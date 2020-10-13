@@ -4,6 +4,9 @@ using System.Text;
 
 namespace ConsoleApp7
 {
+    /// <summary>
+    /// Myprop
+    /// </summary>
     class Class2
     {
     }
